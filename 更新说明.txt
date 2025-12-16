@@ -1,0 +1,5 @@
+添加了下面的策略
+"run_custom_bond_six_pulse_excalibur_strategy":"可转债自定义因子六脉神剑趋势增强策略",
+"run_trend_across_the_bull_and_bear_strategy":"趋势穿越牛熊策略",
+"run_etf_custom_algorithmic_trading_system_strategy":"etf自定义算法交易交易系统策略",
+"run_wencai_custom_algorithmic_trading_system_strategy":"问财自定义算法交易交易系统策略"

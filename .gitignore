@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 数据文件
+*.xlsx
+*.xls
+*.csv
+*.db
+*.sqlite
+
+# 交易系统相关数据文件夹
+持股数据/
+当日成交/
+当日委托/
+盘前持股/
+账户数据/
+买入股票/
+卖出股票/
+自定义高频交易记录/
+自定义模块交易记录/
+授权表/
+
+# 日志
+*.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
