@@ -1,4 +1,4 @@
-gifrom xgtrader.stock_data_ths import stock_data_ths
+from xgtrader.stock_data_ths import stock_data_ths
 from xgtrader.bond_cov_data_ths import bond_cov_data_ths
 from xgtrader.etf_fund_data_ths import etf_fund_data_ths
 from xgtrader.xgtrader import xgtrader
